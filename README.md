@@ -93,13 +93,6 @@ Make sure your code runs locally based on the instructions in your README.
 
 - Created missing `animation-variants.ts` file that was causing a build error on startup
 
-## What I'd Improve With More Time
-
-- Write the Frontend To add reward WPT button next to each completed task
-- Write the Logic To add reward to the user if the task is completed 
-- Add retry logic with exponential backoff for failed blockchain transactions
-
-
 
 ## Known Issues (Would Fix With More Time)
 
